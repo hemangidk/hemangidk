@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemangi
 - 👀 I’m interested in New Learnings in software testing
-- 🌱 I’m currently learning ..
+- 🌱 I’m currently working as freelance engineer ..
 - 💞️ I’m looking to collaborate on Test Automation
 - 📫 How to reach me hemangihere@gmail.com
 
